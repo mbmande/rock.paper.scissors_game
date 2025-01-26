@@ -1,4 +1,4 @@
-rock-paper-scissors_game
+rock.paper.scissors_game
 This is my version of the game as well as my Javascript alx Project.
 
 After Finishing the console version.:
