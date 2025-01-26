@@ -9,7 +9,7 @@ function getComputerChoice() {
 	}
 }
 
-let playResult = "0";
+let playResult = "";
 function playRound(playerSelection, computerSelection) {
 	let alarm = "Wrong Input.";
 	playerSelection = prompt("Enter Rock,Paper or Scissors:");
