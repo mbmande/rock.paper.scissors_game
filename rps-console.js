@@ -1,5 +1,5 @@
 function getComputerChoice() {
-	let randomChoice = Math.floor(Math.random() * 3) + 1;
+	let randomChoice = Math.floor(Math.randon() * 3) + 1;
 	if (randomChoice == 1) {
 		return "Rock";
 	} else if (randomChoice == 2) {
