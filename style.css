@@ -41,7 +41,7 @@ body {
 .score-container {
 	display: flex;
 	justify-content: space-around;
-	align-items: center;
+	align-items: top;
 	width: 900px;
 	height: 70px;
 }
