@@ -27,7 +27,7 @@ const userScore = document.querySelector("div > .h-s-num");
 const compScore = document.querySelector("div > .c-s-num");
 let wins;
 let losses;
-let playing;
+
 
 function start() {
 	wins = 0;
