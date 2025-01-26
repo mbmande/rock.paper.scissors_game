@@ -57,7 +57,7 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
-	gap: 15px;
+	gap: 10px;
 }
 .h-s-text {
 	font-size: 15px;
